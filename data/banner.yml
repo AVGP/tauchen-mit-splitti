@@ -1,0 +1,13 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Tauchen mit Splitti"
+subtitle: |
+  PADI Tauchlehrer in der Schweiz
+content : |
+  Du willst tauchen lernen, dich taucherisch verbessern und weiterentwickeln, mal in einem schweizer See oder Fluss tauchen gehen oder das Tauchen einfach einmal ausprobieren?
+  Dann bist du hier genau richtig! Egal, ob du das Tauchen ausprobieren, einen Tauchkurs machen oder einfach mit mir tauchen gehen möchtest, ich bin für dich da!
+button:
+  label : "Jetzt mit mir tauchen gehen"
+  link : "#kontakt"
+image : "images/splitti.jpg"
+

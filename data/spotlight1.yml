@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "tauchen"
+title : "Tauchen in der Schweiz"
+content: |
+  Die Schweiz ist mit ihren vielen Seen und Flüssen ein wahres Taucherparadies. Oft hört man "Da sieht man nichts, es ist kalt und dunkel."
+  Das stimmt aber nicht ganz. Über 70 verschiedene Fischarten, Krebse, Wracks und mehr erwarten Taucher in den heimischen Gewässern.
+  Wenn du dir selbst ein Bild davon machen möchtest, schau doch mal auf <a href="https://www.youtube.com/channel/UCJiwpzoexEK7aHUW7rOZbgQ">meinem YouTube Kanal</a> vorbei oder geh mit mir tauchen!
+  Übrigens: Im Sommer ist das Wasser oft wärmer als 20°, da reicht ein Neopren-Nassanzug auch :)
+button: 
+  label: "Geführten Tauchgang buchen"
+  link: "#kontakt"
+image: "images/tauchen-schweiz-sonnenbarsch.jpg"

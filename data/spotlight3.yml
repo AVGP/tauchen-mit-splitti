@@ -1,0 +1,15 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "tauchenlernen"
+title : "Tauchen lernen oder ein besserer Taucher werden"
+content: |
+  Du willst die Unterwasserwelt erkunden oder deine Möglichkeiten beim Tauchen erweitern?<br>
+  Dann buche einen Tauchkurs mit mir! Egal, ob du mit deinem Open Water Tauchschein ins Tauchen einsteigen,
+  mit dem Advanced Open Water oder Rescue Diver deine Taucherfahrung erweitern oder mit einem Spezialkurs neue Fähigkeiten erlernen möchtest,
+  bei mir bist du an der richtigen Adresse.<br>
+  Gern kannst du auch einfach einen Trainingstauchgang buchen, um mit mir an deinen eigenen Zielen zu arbeiten.
+button: 
+  label: "Jetzt Kurs oder Training buchen"
+  link: "#kontakt"
+image: "images/tauchen-im-buddyteam.jpg"
+

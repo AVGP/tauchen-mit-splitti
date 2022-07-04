@@ -1,0 +1,88 @@
+title : "Tauchkurse"
+id: "tauchkurse"
+content: |
+  Du möchtest das Tauchen ausprobieren, einen Tauchschein machen, deine Tauchfähigkeiten weiterentwickeln oder die heimischen Seen betauchen? Dann buch doch einen Tauchkurs mit mir!
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Schnuppertauchen"
+    content : "Beim Schnuppertauchen kannst du das Tauchen ganz unkompliziert ausprobieren.<br>"
+    style : "style2 major"
+
+  # feature item loop
+  - name : "Open Water Diver"
+    content : |
+      Der Open Water Diver (OWD) ist dein Einstieg in die Welt des Tauchens.
+      Du lernst alles, was du brauchst um mit einem Buddy bis zu 18 Meter tief tauchen zu gehen.
+    style : "solid style2 major"
+    
+  # feature item loop
+  - name : "Advanced Open Water Diver"
+    content : |
+      Erweitere deine Grenzen mit dem Advanced Open Water Diver (AOWD).
+      In fünf Tauchgängen lernst du bis zu 30 Meter tief zu tauchen, Grundlagen der Unterwasser-Navigation und vieles mehr.
+    style : "solid style2 major"
+    
+  # feature item loop
+  - name : "Rescue Diver"
+    content : |
+      Im Rescue Diver Kurs lernst du Probleme frühzeitig zu erkennen, zu beheben und deine Buddies zu retten, wenn es darauf ankommt.
+      In Kombination mit einem erste Hilfe Kurs bist du dann perfekt gewappnet dir selbst und anderen Tauchern zu helfen und sicherere Tauchabenteuer zu geniessen.
+    style : "solid style2 major"
+    
+  # feature item loop
+  - name : "Tauchen im Trockentauchanzug"
+    content : |
+      Du willst nicht nur im Urlaub und im Sommer tauchen gehen?
+      Dann lerne mit einem Trockentauchanzug zu tauchen - denn auch im kalten Wasser gibt's viel zu erleben!
+    style : "solid style2 major"
+    
+  # feature item loop
+  - name : "Nachttauchen"
+    content : |
+      Nachts erwacht die Unterwasserwelt zu neuem Leben - sei dabei!
+      In diesem Kurs erlernst du alle wichtigen Techniken und bekommst Tipps, wie man auch nachts unter Wasser viel Spass haben kann.
+    style : "style2 major"
+    
+  # feature item loop
+  - name : "Tieftauchen"
+    content : |
+      Du möchtest iefer tauchen als 30 Meter? Kein Problem!
+      Mit dem PADI Deep Diver Kurs kannst du deine Grenze auf 40 Meter erweitern und lernst, worauf es dabei ankommt und wie man sich richtig vorbereitet.
+    style : "solid style2 major"
+    
+  # feature item loop
+  - name : "Enriched Air Nitrox"
+    content : |
+      Deine Nullzeit ist zuende, dabei hättest du noch Luft in der Flasche gehabt? Oder du möchtest einfach noch ein bisschen mehr Sicherheit bei deinem Atemgas?
+      Dann komm vorbei und werde Nitrox-Taucher! An einem Abend lernst du alles, was du für sichere, längere Tauchgänge brauchst.
+    style : "solid style2 major"
+    
+  # feature item loop
+  - name : "Unterwasser-Navigation"
+    content : |
+      Du möchtest dich beim Tauchen besser zurechtfinden können und vielleicht auch eine kompliziertere Route unter Wasser navigieren können?
+      Dann ist der Unterwasser-Navigationskurs genau das Richtige für dich. Mit Kompass und Navigationshilfen findest du immer den richtigen Weg unter Wasser!
+    style : "solid style2 major"
+    
+  # feature item loop
+  - name : "Bergsee-Tauchen"
+    content : |
+      Tauchen in klaren Bergseen ist wunderschön und interessant - erfordert aber besondere Techniken und das nötige Wissen.
+      Im PADI Altitude Diver Kurs lernst du alles, was du brauchst um dich in das klare Wasser eintauchen zu können.
+    style : "solid style2 major"
+
+  # feature item loop
+  - name : "Tarieren in Perfektion"
+    content : |
+      Die Schwerelosigkeit unter Wasser mühelos geniessen? Sich für das perfekte Video optimal positionieren, während man die Kamera hält?
+      Das alles gelingt dir ganz einfach mit der nötigen Übung. Im Kurs konzentrierst du dich auf Tarierung, Trim und Atmung, um bei deinen zukünftigen Tauchgängen gemütlich und präzise durchs Wasser zu gleiten.
+    style : "solid style2 major"
+
+  # feature item loop
+  - name : "Emergency Oxygen Provider"
+    content : |
+      Bei Tauchunfällen braucht es fast immer Notfallsauerstoff. Damit du weisst, wie du den im Notfall richtig und effektiv einsetzt,
+      was in einen gut sortierten Sauerstoffkoffer gehört und worauf es zu achten gilt, kannst du mit mir in diesem Kurs alles ausprobieren und mit mir besprechen.
+    style : "style2 major"
+    

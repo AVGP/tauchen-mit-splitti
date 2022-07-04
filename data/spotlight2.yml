@@ -1,0 +1,14 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "schnuppern"
+title : "Schnuppertauchen"
+content: |
+  Du bist dir nicht sicher, ob Tauchen das Richtige für dich ist?<br>
+  Dann probier es doch erstmal im Schwimmbad aus!
+  Nach einer kurzen Einführung stellen wir dir eine Tauchausrüstung zusammen, fahren ins Schwimmbad
+  und gehen eine Runde tauchen.<br>
+  So kannst du ganz entspannt in deinem Tempo die Schwerelosigkeit geniessen und schauen, ob es dir Spass macht.
+button: 
+  label: "Jetzt Schnuppertauchen gehen"
+  link: "#kontakt"
+image: "images/schnuppertauchen.jpg"
