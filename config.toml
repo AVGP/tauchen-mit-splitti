@@ -2,6 +2,7 @@ baseURL = "https://tauchenmitsplitti.ch/"
 languageCode = "de-ch"
 title = "Tauchen mit Martin Splitt - PADI Tauchlehrer"
 theme = "hugo-story"
+unused = 0 #is just for git to do its thing
 
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
