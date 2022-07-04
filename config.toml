@@ -1,0 +1,17 @@
+baseURL = "https://tauchenmitsplitti.ch/"
+languageCode = "de-ch"
+title = "Tauchen mit Martin Splitt - PADI Tauchlehrer"
+theme = "hugo-story"
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+
+[Params]
+    author = "Martin Splitt"
+    description = "Tauchen in der Schweiz mit PADI Tauchlehrer Martin Splitt"
+    logo = "images/banner.jpg"
+    favicon = true
+
+[Params.social]
+    instagram = "https://instagram.com/the_splitti"
+    facebook = "https://www.facebook.com/martin.splitt2"
+    youtube = "https://www.youtube.com/channel/UCJiwpzoexEK7aHUW7rOZbgQ"
