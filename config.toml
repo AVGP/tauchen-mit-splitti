@@ -9,10 +9,41 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [Params]
     author = "Martin Splitt"
     description = "Tauchen in der Schweiz mit PADI Tauchlehrer Martin Splitt"
-    logo = "images/banner.jpg"
+    logo = "images/logo.png"
     favicon = true
 
 [Params.social]
     instagram = "https://instagram.com/the_splitti"
     facebook = "https://www.facebook.com/martin.splitt2"
     youtube = "https://www.youtube.com/channel/UCJiwpzoexEK7aHUW7rOZbgQ"
+
+[menu]
+[[menu.main]]
+identifier = ""
+url = "/"
+name = "Start"
+weight = 1
+
+[[menu.main]]
+identifier = "Tauchkurse"
+url = "/#tauchkurse"
+name = "Kurse"
+weight = 2
+
+[[menu.main]]
+identifier = "Donnerstagstauchen"
+url = "/donnerstagstauchen"
+name = "Donnerstagstauchen"
+weight = 3
+
+[[menu.main]]
+identifier = "Sonntagstauchen"
+url = "/sonntagstauchen"
+name = "Sonntagstauchen"
+weight = 4
+
+[[menu.main]]
+identifier = "Tauchen gehen"
+url = "/#kontakt"
+name = "Tauchen gehen"
+weight = 5
