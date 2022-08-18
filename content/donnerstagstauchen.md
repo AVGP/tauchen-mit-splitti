@@ -29,7 +29,7 @@ date: 2022-07-13T12:12:00Z
     </div>
 </section>
 
-<section class="banner style1 orient-right content-align-right image-position-left fullscreen onload-image-fade-in onload-content-fade-left">
+<section class="banner style1 orient-right content-align-left image-position-left fullscreen onload-image-fade-in onload-content-fade-left">
     <div class="content">
         <h2>Nächste Termine</h2>
         <p class="major">
