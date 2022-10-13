@@ -63,7 +63,7 @@ date: 2022-10-13T12:00:00Z
     <h2>Braucht man zum Tauchen in der Schweiz einen Trockentauchanzug</h2>
     <p><strong>Nicht unbedingt, aber es ist empfehlenswert einen Trockentauchanzug zu nutzen.</strong></p>
     <p>
-      
+      Die Wassertemperatur ist in den Sommermonaten (ca. Juni - September) bis in eine Tiefe von etwa 15m mit etwas mehr als 20°C für die meisten auch in einem Nassanzug mit 5-7mm Dicke durchaus gut betauchbar, will man tiefer tauchen oder auch den Rest des Jahres (mit meistens deutlich klarerem Wasser) tauchen gehen, ist ein Trockentauchanzug definitiv notwendig.
     </p>
   </div>  
 </section>
