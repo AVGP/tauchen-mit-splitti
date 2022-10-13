@@ -68,7 +68,7 @@ date: 2022-10-13T12:00:00Z
   </div>  
 </section>
 
-<script type="application/json+ld">
+<script type="application/ld+json">
 {
    "@context": "https://schema.org",
    "@type": "FAQPage",
