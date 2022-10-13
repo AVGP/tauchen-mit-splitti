@@ -17,6 +17,11 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
     facebook = "https://www.facebook.com/martin.splitt2"
     youtube = "https://www.youtube.com/channel/UCJiwpzoexEK7aHUW7rOZbgQ"
 
+[Params.Organization]
+    name = "Tauchen mit Splitti"
+    description = "Tauchen lernen in der Schweiz mit PADI Tauchlehrer Martin Splitt"
+    location = "Zurich, Switzerland"
+
 [menu]
 [[menu.main]]
 identifier = ""
