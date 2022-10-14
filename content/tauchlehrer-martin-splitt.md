@@ -9,6 +9,14 @@ date: 2022-07-14T12:12:00Z
     <h1>Martin Splitt</h1>
     <p class="major">PADI Tauchlehrer aus Leidenschaft</p>
     
+    <h2>Qualifikationen</h2>
+    <ul>
+      <li>PADI Master Scuba Diver Trainer</li>
+      <li>EFR Instruktor, inkl. AED / HLW</li>
+      <li>TDI Helitrox Taucher</li>
+      <li>Helicopter Underwater Emergency Trainer Sicherungstaucher</li>
+    </ul>
+    
     <h2>Was ich dir biete</h2>
     
     <p>
@@ -38,7 +46,28 @@ date: 2022-07-14T12:12:00Z
     </p>
   </div>
   <div class="image">
-    <img src="/static/images/martin-splitt-tauch-selfie-mit-krabbe.jpg" alt="Selfie von Martin Splitt mit einer Krabbe beim Tauchen in der Ostsee">
+    <img src="/images/martin-splitt-tauch-selfie-mit-krabbe.jpg" alt="Selfie von Martin Splitt mit einer Krabbe beim Tauchen in der Ostsee">
   </div>
 </section>
+<script type="application/ld+json">
+  
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Martin Splitt",
+  "knowsAbout": ["diving", "PADI", "scuba", "tauchen"],
+  "knowsLanguage": ["en", "de"],
+  "birthDate": "1989-06-07",
+  "affiliation": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Tauchen mit Splitti",
+    "url": "https://tauchenmitsplitti.ch/",
+    "description": "Tauchen lernen in der Schweiz mit PADI Tauchlehrer Martin Splitt",
+    "logo": "https://tauchenmitsplitti.ch/images/logo.png",
+    "location": "Zurich, Switzerland"
+  }
+}
+
+</script>
 {{< /rawhtml >}}
