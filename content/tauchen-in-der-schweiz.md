@@ -14,8 +14,11 @@ date: 2022-10-13T12:00:00Z
     </p>
     <p>
       Doch auch in der Schweiz kann man viel sehen und erleben!
-      <iframe width="80%" src="https://www.youtube.com/embed/8-65o-cIWjw?start=160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+    </p>
+    <p>
+      <iframe width="80%" style="min-height: 480px" src="https://www.youtube.com/embed/8-65o-cIWjw?start=160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </p>
+    <p>
       Mit mehr als 70 verschiedenen Tier- und Pflanzenarten, Wracks und beeindruckenden Steilwänden haben die schweizer Seen und Flüsse für uns Taucher viel zu bieten!
     </p>
   </div>
