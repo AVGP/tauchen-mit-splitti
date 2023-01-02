@@ -35,17 +35,17 @@ url = "/#tauchkurse"
 name = "Kurse"
 weight = 2
 
-[[menu.main]]
-identifier = "Donnerstagstauchen"
-url = "/donnerstagstauchen"
-name = "Donnerstagstauchen"
-weight = 3
+#[[menu.main]]
+#identifier = "Donnerstagstauchen"
+#url = "/donnerstagstauchen"
+#name = "Donnerstagstauchen"
+#weight = 3
 
-[[menu.main]]
-identifier = "Sonntagstauchen"
-url = "/sonntagstauchen"
-name = "Sonntagstauchen"
-weight = 4
+#[[menu.main]]
+#identifier = "Sonntagstauchen"
+#url = "/sonntagstauchen"
+#name = "Sonntagstauchen"
+#weight = 4
 
 [[menu.main]]
 identifier = "Tauchen gehen"
