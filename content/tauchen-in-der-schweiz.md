@@ -9,17 +9,13 @@ date: 2022-10-13T12:00:00Z
     <h1>Tauchen in der Schweiz</h1>
     <p class="major">Sieht man da überhaupt etwas?</p>
     <p>
-      Beim Tauchen denken die Meisten an weisse Sandstrände und die warme Sonne, die über einem strahlend blauen Ozean voller bunten Fischen und Korallen strahlt.
-      <img src="/images/tauchen-auf-den-malediven.jpg" width="80%" alt="Taucher und ein Schwarm gelber Fische an einem Riff auf den Malediven">
-    </p>
-    <p>
-      Doch auch in der Schweiz kann man viel sehen und erleben!
-    </p>
-    <p>
       <iframe width="80%" style="min-height: 480px" src="https://www.youtube.com/embed/8-65o-cIWjw?start=160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </p>
     <p>
-      Mit mehr als 70 verschiedenen Tier- und Pflanzenarten, Wracks und beeindruckenden Steilwänden haben die schweizer Seen und Flüsse für uns Taucher viel zu bieten!
+      Beim Tauchen denken die Meisten an weisse Sandstrände und die warme Sonne, die über einem strahlend blauen Ozean voller bunten Fischen und Korallen strahlt. Doch auch in der Schweiz kann man viel sehen und erleben!
+    </p>
+    <p>
+      Mit mehr als 70 verschiedenen Tierarten, Wracks und beeindruckenden Steilwänden haben die schweizer Seen und Flüsse für uns Taucher viel zu bieten!
     </p>
   </div>
 </section>
