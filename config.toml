@@ -52,3 +52,15 @@ identifier = "Tauchen gehen"
 url = "/#kontakt"
 name = "Tauchen gehen"
 weight = 5
+
+[[menu.main]]
+identifier = "PADI Tauchlehrer Martin Splitt"
+url = "/tauchlehrer-martin-splitt"
+name = "Über mich"
+weight = 6
+
+[[menu.main]]
+identifier = "Tauchen in der Schweiz"
+url = "/tauchen-in-der-schweiz"
+name = "Tauchen in der Schweiz"
+weight = 7
